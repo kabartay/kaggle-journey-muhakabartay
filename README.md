@@ -1,2 +1,2 @@
-# kaggle-journey-muhakabartay
+# Kaggle Journey: muhakabartay
 This page summarizes my Kaggle journey.
