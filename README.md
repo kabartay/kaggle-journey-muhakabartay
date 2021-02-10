@@ -5,17 +5,17 @@ This page summarizes my Kaggle journey.
 
 ### Competitions list
 
-🔹 silver .....36th [Top _4.0%]: M5 Forecasting - Uncertainty  
-🔹 silver .....76th [Top _4.7%]: Jigsaw Multilingual Toxic Comment Classification  
-🔹 silver .....87th [Top _2.0%]: Mechanisms of Action (MoA) Prediction  
-🔹 silver .....99th [Top _3.6%]: Predicting Molecular Properties  
-🔹 silver ...137th [Top _4.2%]: SIIM-ISIC Melanoma Classification  
-🔹 silver ...2ZZth [Top _4.Z%]: IEEE-CIS Fraud Detection (some issues on LB)  
+🔹 silver .36th [Top _4.0%]: M5 Forecasting - Uncertainty  
+🔹 silver .76th [Top _4.7%]: Jigsaw Multilingual Toxic Comment Classification  
+🔹 silver .87th [Top _2.0%]: Mechanisms of Action (MoA) Prediction  
+🔹 silver .99th [Top _3.6%]: Predicting Molecular Properties  
+🔹 silver 137th [Top _4.2%]: SIIM-ISIC Melanoma Classification  
+🔹 silver 2ZZth [Top _4.Z%]: IEEE-CIS Fraud Detection (some issues on LB)  
 
-🔸 bronze ..77th [Top_15%]: Lyft 3D Object Deetction for Autonomous Vehicles  
-🔸 bronze ..91th [Top _7.4%]: TensorFlow 2.0 Questions Answering  
-🔸 bronze ..9Zth [Top _9.Z%]: TReNDS Neuroimaging (some issues on LB)  
-🔸 bronze ..95th [Top _6.2%]: Understanding Clouds from Satellite Images  
+🔸 bronze .77th [Top_15%]: Lyft 3D Object Deetction for Autonomous Vehicles  
+🔸 bronze .91th [Top _7.4%]: TensorFlow 2.0 Questions Answering  
+🔸 bronze .9Zth [Top _9.Z%]: TReNDS Neuroimaging (some issues on LB)  
+🔸 bronze .95th [Top _6.2%]: Understanding Clouds from Satellite Images  
 🔸 bronze 128th [Top _8.6%]: SIIM-ACR Pneumothorax Segmentation  
 🔸 bronze 199th [Top _8.9%]: Tweet Sentiment Extraction  
 
@@ -28,6 +28,8 @@ This page summarizes my Kaggle journey.
 ▪️ no medal 241th [Top _18.0%]: RSNA Intracranial Hemorrhage Detection  
 ▪️ no medal 306th [Top _13.5%]: Deepfake Detection Challenge (DFDC) by Facebook  
 
-- playground
-- playground
-- playground
+- playground .38th [Top _8.8%]: [BigQuery-Geotab Intersection Congestion](https://www.kaggle.com/c/bigquery-geotab-intersection-congestion)
+- playground .65th [Top _7.7%]: [Flower Classification with TPUs](https://www.kaggle.com/c/flower-classification-with-tpus)
+- playground .84th [Top _4.9%]: [Tabular Playground Series - Jan 2021](https://www.kaggle.com/c/tabular-playground-series-jan-2021)
+- playground 130th [Top _9.9%]: [Plant Pathology 2020 - FGVC7](https://www.kaggle.com/c/plant-pathology-2020-fgvc7)
+- playground 143th [Top 10.7%]: [Categorical Feature Encoding Challenge](https://www.kaggle.com/c/cat-in-the-dat)
