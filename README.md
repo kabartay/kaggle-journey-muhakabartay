@@ -5,12 +5,12 @@ This page summarizes my Kaggle journey.
 
 ### Competitions list
 
-🔹 silver &nbsp;&nbsp;36th [Top 4.0%]: [M5 Forecasting - Uncertainty](https://www.kaggle.com/c/m5-forecasting-uncertainty) 
-🔹 silver &nbsp;&nbsp;76th [Top 4.7%]: [Jigsaw Multilingual Toxic Comment Classification](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification)
-🔹 silver &nbsp;&nbsp;87th [Top 2.0%]: [Mechanisms of Action (MoA) Prediction](https://www.kaggle.com/c/lish-moa)
-🔹 silver &nbsp;&nbsp;99th [Top 3.6%]: [Predicting Molecular Properties](https://www.kaggle.com/c/champs-scalar-coupling)
-🔹 silver 137th [Top 4.2%]: [SIIM-ISIC Melanoma Classification](https://www.kaggle.com/c/siim-isic-melanoma-classification)
-🔹 silver 2ZZth [Top 4.Z%]: [IEEE-CIS Fraud Detection (some issues on LB)](https://www.kaggle.com/c/ieee-fraud-detection/)
+🔹 silver &nbsp;&nbsp;36th [Top 4.0%]: [M5 Forecasting - Uncertainty](https://www.kaggle.com/c/m5-forecasting-uncertainty)   
+🔹 silver &nbsp;&nbsp;76th [Top 4.7%]: [Jigsaw Multilingual Toxic Comment Classification](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification)  
+🔹 silver &nbsp;&nbsp;87th [Top 2.0%]: [Mechanisms of Action (MoA) Prediction](https://www.kaggle.com/c/lish-moa)  
+🔹 silver &nbsp;&nbsp;99th [Top 3.6%]: [Predicting Molecular Properties](https://www.kaggle.com/c/champs-scalar-coupling)  
+🔹 silver 137th [Top 4.2%]: [SIIM-ISIC Melanoma Classification](https://www.kaggle.com/c/siim-isic-melanoma-classification)  
+🔹 silver 2ZZth [Top 4.Z%]: [IEEE-CIS Fraud Detection (some issues on LB)](https://www.kaggle.com/c/ieee-fraud-detection/)  
 
 🔸 bronze &nbsp;&nbsp;77th [Top 14.0%]: Lyft 3D Object Deetction for Autonomous Vehicles  
 🔸 bronze &nbsp;&nbsp;91th [Top &nbsp;7.4%]: TensorFlow 2.0 Questions Answering  
