@@ -20,10 +20,10 @@ This page summarizes my Kaggle journey.
 🔸 bronze 128th [Top &nbsp;8.6%]: [SIIM-ACR Pneumothorax Segmentation](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation)  
 🔸 bronze 199th [Top &nbsp;8.9%]: [Tweet Sentiment Extraction](https://www.kaggle.com/c/tweet-sentiment-extraction)  
 
-▪️ no medal 110th [Top 10.9%]: Prostate cANcer graDe Assessment (PANDA) Challenge  
-▪️ no medal 129th [Top 11.4%]: Google Research Football with Manchester City F.C.  
-▪️ no medal 185th [Top 19.9%]: Generative Dog Images (GAN)  
-▪️ no medal 205th [Top 12.7%]: Santa's Workshop Tour 2019  
+▪️ no medal 110th [Top 10.9%]: [Prostate cANcer graDe Assessment (PANDA) Challenge](https://www.kaggle.com/c/prostate-cancer-grade-assessment)
+▪️ no medal 130th [Top 11.5%]: [Google Research Football with Manchester City F.C.](https://www.kaggle.com/c/google-football)
+▪️ no medal 185th [Top 19.9%]: [Generative Dog Images (GAN)](https://www.kaggle.com/c/generative-dog-images)
+▪️ no medal 205th [Top 12.7%]: [Santa's Workshop Tour 2019](https://www.kaggle.com/c/santa-workshop-tour-2019)
 ▪️ no medal 217th [Top 19.1%]: Halite by Two Sigma (RL)  
 ▪️ no medal 238th [Top 11.7%]: NFL Big Data Bowl 2019  
 ▪️ no medal 241th [Top 18.0%]: RSNA Intracranial Hemorrhage Detection  
