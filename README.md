@@ -17,6 +17,7 @@ This page summarizes my Kaggle journey.
 🔸 bronze &nbsp;&nbsp;92th [Top 32.6%]: [The 3rd YouTube-8M Video Understanding Challenge](https://www.kaggle.com/c/youtube8m-2019)  
 🔸 bronze &nbsp;&nbsp;9Zth [Top &nbsp;&nbsp;9.Z%]: [TReNDS Neuroimaging](https://www.kaggle.com/c/trends-assessment-prediction) (CV) (some issues on LB)  
 🔸 bronze &nbsp;&nbsp;95th [Top &nbsp;&nbsp;6.2%]: [Understanding Clouds from Satellite Images](https://www.kaggle.com/c/understanding_cloud_organization) (CV)  
+🔸 bronze 109th [Top &nbsp;&nbsp;9.6%]: [Rainforest Connection Species Audio Detection](https://www.kaggle.com/c/rfcx-species-audio-detection) (CV) 
 🔸 bronze 128th [Top &nbsp;&nbsp;8.6%]: [SIIM-ACR Pneumothorax Segmentation](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation) (CV)  
 🔸 bronze 199th [Top &nbsp;&nbsp;8.9%]: [Tweet Sentiment Extraction](https://www.kaggle.com/c/tweet-sentiment-extraction) (NLP)  
 
