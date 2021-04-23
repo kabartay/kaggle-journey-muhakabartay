@@ -5,8 +5,8 @@ This page summarizes my Kaggle journey.
 
 ### Competitions list
 
-🔹 silver &nbsp;&nbsp;36th [Top 4.0%]: [M5 Forecasting - Uncertainty](https://www.kaggle.com/c/m5-forecasting-uncertainty)
-🔹 silver &nbsp;&nbsp;36th [Top 9.2%]: [March Machine Learning Mania 2021 - NCAAW](https://www.kaggle.com/c/ncaaw-march-mania-2021)  
+🔹 silver &nbsp;&nbsp;36th [Top 4.0%]: [M5 Forecasting - Uncertainty](https://www.kaggle.com/c/m5-forecasting-uncertainty)  
+🔹 silver &nbsp;&nbsp;36th [Top 9.3%]: [March Machine Learning Mania 2021 - NCAAW](https://www.kaggle.com/c/ncaaw-march-mania-2021)  
 🔹 silver &nbsp;&nbsp;76th [Top 4.7%]: [Jigsaw Multilingual Toxic Comment Classification](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification) (NLP)  
 🔹 silver &nbsp;&nbsp;87th [Top 2.0%]: [Mechanisms of Action (MoA) Prediction](https://www.kaggle.com/c/lish-moa)  
 🔹 silver &nbsp;&nbsp;99th [Top 3.6%]: [Predicting Molecular Properties](https://www.kaggle.com/c/champs-scalar-coupling)  
@@ -18,19 +18,21 @@ This page summarizes my Kaggle journey.
 🔸 bronze &nbsp;&nbsp;92th [Top 32.6%]: [The 3rd YouTube-8M Video Understanding Challenge](https://www.kaggle.com/c/youtube8m-2019)  
 🔸 bronze &nbsp;&nbsp;9Zth [Top &nbsp;&nbsp;9.Z%]: [TReNDS Neuroimaging](https://www.kaggle.com/c/trends-assessment-prediction) (CV) (some issues on LB)  
 🔸 bronze &nbsp;&nbsp;95th [Top &nbsp;&nbsp;6.2%]: [Understanding Clouds from Satellite Images](https://www.kaggle.com/c/understanding_cloud_organization) (CV)  
-🔸 bronze 109th [Top &nbsp;&nbsp;9.6%]: [Rainforest Connection Species Audio Detection](https://www.kaggle.com/c/rfcx-species-audio-detection) (CV) 
+🔸 bronze 109th [Top &nbsp;&nbsp;9.6%]: [Rainforest Connection Species Audio Detection](https://www.kaggle.com/c/rfcx-species-audio-detection) (CV)   
 🔸 bronze 128th [Top &nbsp;&nbsp;8.6%]: [SIIM-ACR Pneumothorax Segmentation](https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation) (CV)  
 🔸 bronze 199th [Top &nbsp;&nbsp;8.9%]: [Tweet Sentiment Extraction](https://www.kaggle.com/c/tweet-sentiment-extraction) (NLP)  
 
-▪️ no medal 110th [Top 10.9%]: [Prostate cANcer graDe Assessment (PANDA) Challenge](https://www.kaggle.com/c/prostate-cancer-grade-assessment) (CV)  
+▪️ no medal 110th [Top 10.9%]: [Prostate cANcer graDe Assessment (PANDA) Challenge](https://www.kaggle.com/c/prostate-cancer-grade-assessment) (CV)    
+▪️ no medal 122th [Top 15.4%]: [Santa 2020 - The Candy Cane Contest](https://www.kaggle.com/c/santa-2020) (RL)      
 ▪️ no medal 130th [Top 11.5%]: [Google Research Football with Manchester City F.C.](https://www.kaggle.com/c/google-football) (RL)  
 ▪️ no medal 185th [Top 19.9%]: [Generative Dog Images](https://www.kaggle.com/c/generative-dog-images) (GAN)  
-▪️ no medal 205th [Top 12.7%]: [Santa's Workshop Tour 2019](https://www.kaggle.com/c/santa-workshop-tour-2019)  
+▪️ no medal 205th [Top 12.7%]: [Santa's Workshop Tour 2019](https://www.kaggle.com/c/santa-workshop-tour-2019) (Optimization)    
 ▪️ no medal 217th [Top 19.1%]: [Halite by Two Sigma](https://www.kaggle.com/c/halite) (RL)  
 ▪️ no medal 238th [Top 11.7%]: [NFL Big Data Bowl 2019](https://www.kaggle.com/c/nfl-big-data-bowl-2020)  
 ▪️ no medal 241th [Top 18.0%]: [RSNA Intracranial Hemorrhage Detection](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection) (CV)  
 ▪️ no medal 306th [Top 13.5%]: [Deepfake Detection Challenge (DFDC) by Facebook](https://www.kaggle.com/c/deepfake-detection-challenge) (CV)  
 
+- playground &nbsp;&nbsp;22th [Top &nbsp;1.5%]: [Tabular Playground Series - Mar 2021](https://www.kaggle.com/c/tabular-playground-series-mar-2021)    
 - playground &nbsp;&nbsp;38th [Top &nbsp;8.8%]: [BigQuery-Geotab Intersection Congestion](https://www.kaggle.com/c/bigquery-geotab-intersection-congestion)
 - playground &nbsp;&nbsp;65th [Top &nbsp;7.7%]: [Flower Classification with TPUs](https://www.kaggle.com/c/flower-classification-with-tpus) (CV)  
 - playground &nbsp;&nbsp;84th [Top &nbsp;4.9%]: [Tabular Playground Series - Jan 2021](https://www.kaggle.com/c/tabular-playground-series-jan-2021)
